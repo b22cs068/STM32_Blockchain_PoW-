@@ -2,7 +2,7 @@
 #include <stdint.h>
 #include <string.h>
 #include <stdio.h>      // For sprintf
-#include "sha256.h"     // Your C implementation
+#include "sha256.h"     
 void delay(volatile uint32_t d);
 void UART3_Init(void);
 void UART3_SendChar(char c);
