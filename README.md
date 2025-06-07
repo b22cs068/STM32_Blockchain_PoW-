@@ -18,7 +18,7 @@ This project implements a **lightweight Proof-of-Work (PoW)** blockchain consens
 ## 🔗 Project Links
 
 - 🧠 [GitHub Repository](https://github.com/b22cs068/STM32_Blockchain_PoW-/tree/main)
-- 📽️ [Demo Video](#) *(Link to be added)*
+- 📽️ [Demo Video](#) *(https://drive.google.com/file/d/1gCNcgGKrrAJhNw0q9mAzjTv2bD_T4ttN/view?usp=sharing)*
 
 ---
 
