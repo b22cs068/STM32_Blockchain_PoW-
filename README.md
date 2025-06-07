@@ -5,7 +5,7 @@
 Yogita Mundankar (B22CS068)  
 Qazi Talha Ali (B22CS087)  
 **Course:** Embedded Systems  
-**Instructor:** [Insert Instructor Name]  
+**Instructor:** Binod Kumar  
 
 ---
 
