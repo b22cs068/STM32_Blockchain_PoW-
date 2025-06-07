@@ -122,7 +122,7 @@ resources and outputs results over UART. It demonstrates how lightweight consens
 can be achieved in IoT contexts, serving as a foundation for further development of
 blockchain-enabled embedded systems.
 
-##Future Work
+## Future Work
 • Implement Proof-of-Stake logic with timestamp or sensor-weighted metrics
 • Display mining stats on LCD or touchscreen
 • Integrate with wireless module for block broadcast simulation
