@@ -101,5 +101,23 @@ Performance scales exponentially with difficulty due to the nature of PoW.
 
 ---
 
-## 🖥️ Sample UART Output
+## 🖥️ 8 Results
+Testing was performed for difficulty levels 1, 2, 3 and 4.
+As expected, higher difficulty exponentially increases the time required to mine a valid
+block. The project demonstrates that embedded devices can handle basic consensus tasks
+with acceptable performance for low-security or private networks.
+![image](https://github.com/user-attachments/assets/9f6737e7-9292-4901-bff5-2097cfd9c18f)
 
+## Limitations and Challenges
+• Limited processing power and no parallelism
+• SHA-256 implementation is software-based (no hardware acceleration)
+• UART is slow for large data logging
+• Only PoW is explored (PoS and others are out of scope)
+• No cryptographic key exchange or wallet management included
+
+## Conclusion
+This project validates the feasibility of running a blockchain consensus algorithm (PoW)
+on STM32 embedded devices. The system performs hash-based mining using minimal
+resources and outputs results over UART. It demonstrates how lightweight consensus
+can be achieved in IoT contexts, serving as a foundation for further development of
+blockchain-enabled embedded systems.
